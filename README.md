@@ -21,4 +21,10 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### T2_P3.py
 
-- Optimizes a kernel-based regressor using gradient descent
+- Controller file that tests the implementation for the 4 different classifiers
+
+###### T2_P3_LogisticRegression.py
+
+###### T2_P3_GaussianGenerativeModel.py
+
+###### T2_P3_KNNModel.py
