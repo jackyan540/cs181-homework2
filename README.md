@@ -17,8 +17,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem1-Gradient-Descent.py
 
-- Referred to as `T1_P1.py` in the specifications
-- Calculates the loss with respect to three different kernels for the provided dataset
+- Using gradient descent, fits a sigmoid logistic regression model for three different bases
 
 #### T2_P3.py
+
 - Optimizes a kernel-based regressor using gradient descent
