@@ -6,8 +6,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 > Solutions contained in the `personal-solutions` folder
 
 1. Exploring the Bias-Variance Tradeoff
-2. A
-3. A
+2. Maximum Likelihood Estimation in Classification (for a generative K-class model)
+3. Comparing 4 different classifiers: (1) softmax regression, (2) generative classifier with a shared covariance matrix, (3) generative classifier with a separate covariance matrix, and (4) kNN classifier
 
 ---
 
